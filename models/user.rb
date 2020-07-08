@@ -4,3 +4,5 @@ class User < ActiveRecord::Base
     "my name is #{self.name}"
   end
 end
+
+#all done! submit!
